@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "インザバックルーム",
+  "base_artist": "syudou",
+  "createdAt": "2025-12-09T08:49:57.264718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インザバックルーム",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_インザバックルーム_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インザバックルーム",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/02_インザバックルーム_syudou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In The Back Room (English Cover)「Chainsaw Man ED 5」【Will Stetson】「インザバックルーム」",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/03_In_The_Back_Room_(English_Cover)「Chainsaw_Man_ED_5」【Will_Stetson】「インザバックルーム」_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "インザバックルーム",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/04_インザバックルーム_syudou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インザバックルーム",
+      "artist": "syudou - Chainsawman ED5",
+      "has_synced": true,
+      "path": "select/05_インザバックルーム_syudou_-_Chainsawman_ED5.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "インザバックルーム - In the Back Room",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/06_インザバックルーム_-_In_the_Back_Room_syudou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インザバックルーム",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_インザバックルーム_syudou.txt"
+    }
+  ]
+}
